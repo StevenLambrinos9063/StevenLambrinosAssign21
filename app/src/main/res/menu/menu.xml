@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/helpmenu"
+        android:title="@string/help"
+        android:onClick="dialer"
+        app:showAsAction="never">
+
+    </item>
+    <item
+        android:id="@+id/Rent"
+        android:icon="@drawable/buildings"
+        android:onClick="browser1"
+        android:title="@string/Rent"
+        app:showAsAction="always">
+
+    </item>
+    <item
+        android:id="@+id/home"
+        android:title="@string/home"
+        android:onClick="maps"
+        app:showAsAction="ifRoom">
+
+    </item>
+
+</menu>

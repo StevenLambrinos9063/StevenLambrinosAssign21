@@ -1,4 +1,8 @@
 <!-- Steven Lambrinos N01429063 Assignment 2 -->
 <resources>
     <string name="app_name">StevenAssign2</string>
+    <string name="call_now">Call Now</string>
+    <string name="help">help</string>
+    <string name="rent">rent</string>
+    <string name="home">home</string>
 </resources>
