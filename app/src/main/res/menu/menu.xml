@@ -12,7 +12,7 @@
         android:id="@+id/Rent"
         android:icon="@drawable/buildings"
         android:onClick="browser1"
-        android:title="@string/Rent"
+        android:title="@string/rent"
         app:showAsAction="always">
 
     </item>

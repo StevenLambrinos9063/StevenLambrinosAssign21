@@ -13,7 +13,20 @@
         android:theme="@style/Theme.StevenAssign2">
         <activity
             android:name=".SplashScreenActivity"
-            android:exported="false" />
+            android:theme="@style/SplashTheme"/>
+
+        <item android:drawable="@drawable/bg_gradient"/>
+        <item>
+            <bitmap
+                android:gravity="center"
+                android:src="@drawable/logo_art_1"/>
+        </item>
+        <item android:bottom="50dp">
+            <bitmap
+                android:gravity="bottom"
+                android:src="@drawable/logo_art_2"/>
+        </item>
+
         <activity
             android:name=".LambrinosActivity"
             android:exported="true" />

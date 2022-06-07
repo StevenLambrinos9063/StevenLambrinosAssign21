@@ -1,8 +1,10 @@
 <!-- Steven Lambrinos N01429063 Assignment 2 -->
 <resources>
     <string name="app_name">StevenAssign2</string>
-    <string name="call_now">Call Now</string>
     <string name="help">help</string>
     <string name="rent">rent</string>
     <string name="home">home</string>
+    <string name="maininfo">LeaseOrRentHome Inc. helps its clients to find the best option for a home.</string>
+    <string name="app_description">This app will help you search for your future households as well as many other places you can rent or buy. We are a professionally trained team that are working around the clock 24/7 to find the best deal on houses for everyone.</string>
+    <string name="btn_enter">Enter</string>
 </resources>
